@@ -6,7 +6,7 @@
 name: shrls_biohackacademy
 
 # Short bio or description (displayed in the header)
-description: documentation of my journey through the biohack academy
+description: expedition through the biohack academy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/101053027?s=400&u=155837feba460b9566aded3ad3f49a5dea1a7246&v=4
@@ -36,7 +36,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://YOURUSERNAME.github.io
+url: http://shrls-hku.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
