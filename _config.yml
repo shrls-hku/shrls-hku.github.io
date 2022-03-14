@@ -72,4 +72,4 @@ exclude:
     - LICENSE
     - README.md
 
-theme: jekyll-theme-minimal
+theme:
