@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Final Project
+title: Final project
 permalink: /finalproject/
 ---
 
+Test
