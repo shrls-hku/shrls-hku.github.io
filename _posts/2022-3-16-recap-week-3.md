@@ -1,6 +1,16 @@
 ---
 layout: post
-title: Week 3: Making an incubator
+title: Week 3
 ---
+### Making an incubator
+Still online this week as I'm not entirely better, but I'm exited to get building and I have quite some tools and stuff at home so that should work. I decided to go with the incubator since I have a lot of styrofoam let over from insulation, an Arduino and a cooking thermometer. After a talk with Kas, Inger and Maarten today about artistic biolab tools, the idea arose to see if the incubator could be programmed not to control temperature, but to react to other sensory input such as music, sound, the light of day or online data. That seems like an interesting challenge.
 
-Still online this week as I'm not entirely better, but I'm exited to get building and I have quite some tools and stuff at home so that should work. I decided to go with the incubator since I have a lot of styrofoam let over from insulation, I have an Arduino and a cooking thermometer. 
+### Hideo Iwasaki
+I joined a Bioclub Tokio lecture by [Hideo Iwasaki](https://hideo-iwasaki.com/), bioartist and professor at Waseda University and Lab coordinator at Bioclub Tokio. He hosts the [MetaPhorest Bio Aesthetics platform](http://www.facebook.com/metaphorest.net). Hideo made a useful distinction between the scientific and artistic view on life, that I noted down:
+
+> Life from a natural scientific perspective (scientific studies): **Lifeness resides in the subject**
+> 
+> Life as “perceived” intersubjective presence (bioaesthetics, bioart): **Lifeness resides in the relationship between the perceiver and the object**
+
+He futher talked about his work with cyanobacteria, as the most simple model organism for circadian clock studies because of their temporal rythm of oxigenic photosynthesis, and pioneers and reformers of the earth (and potentially Mars). They exhibit group behavior and Hideo is studying how they produce these temporal and spatial patterns. Using cyanobacteria, Hideo is challenging the "Biological Clock" notion as a machine metaphor for describing a natural event, which he feels is exemplary of the dominance of the clock in western culture. His scientific work and art flow in and out of eachother. He has 'atelierized' his biolab, and grows bacteria on his scientific articles, which then 'hack' the paper. Afterwards an interesting discussion arose on the representation of bioart in galleries, its it sculptural or performative, and if the latter, then who performs?
+
