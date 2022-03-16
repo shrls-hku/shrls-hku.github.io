@@ -6,7 +6,7 @@ title: Week 3
 Still online this week as I'm not entirely better, but I'm exited to get building and I have quite some tools and stuff at home so that should work. I decided to go with the incubator since I have a lot of styrofoam let over from insulation, an Arduino and a cooking thermometer. After a talk with Kas, Inger and Maarten today about artistic biolab tools, the idea arose to see if the incubator could be programmed not to control temperature, but to react to other sensory input such as music, sound, the light of day or online data. That seems like an interesting challenge.
 
 ### Hideo Iwasaki
-I joined a Bioclub Tokio lecture by [Hideo Iwasaki](https://hideo-iwasaki.com/), bioartist and professor at Waseda University and Lab coordinator at Bioclub Tokio. He hosts the [MetaPhorest Bio Aesthetics platform](http://www.facebook.com/metaphorest.net). Hideo made a useful distinction between the scientific and artistic view on life, that I noted down:
+I joined a Bioclub Tokio lecture by [Hideo Iwasaki](https://hideo-iwasaki.com/), bioartist and professor at Waseda University and Lab coordinator at Bioclub Tokio. He hosts the [MetaPhorest Bio Aesthetics platform](http://www.facebook.com/metaphorest.net) and made an interesting distinction between the scientific and artistic view on life, that I noted down:
 
 > Life from a natural scientific perspective (scientific studies): **Lifeness resides in the subject**
 > 
