@@ -1,7 +1,0 @@
----
-layout: post
-title: Recap week 1
----
-
-### Binge watching the zoom sessions
-I spent the spring holiday week abroad with my kids, so I watched all zoom sessions on the way back. Lucas Evers' elaborate presentation on biohacking got me wired to finally get started! I was especially struck by Ionat Zurr's presentation since I know SymbioticA lab from my research on biolabs for HKU and it is one of the most exiting and earliest biolabs embedded within an art university that I came across, that also did a lot of research on tissue engineering as an art form. Getting this github website up was a bit challenging, but actually taking the time to carefully read the instructions and code file comments made me get it, hehe. Now I'm curious if I could add a moving background... let's see later after catching up.
