@@ -3,5 +3,15 @@ layout: page
 title: Final project
 permalink: /finalproject/
 ---
+##### 18/2 FIRST IDEAS
 
-To be continued...
+##### 1. Algae for the living material archive
+I would like to build an algae bioreactor/cultivator for the HKU biolab with space to grow various species of macroalgae (seaweed) and microalgae (phytoplankton) and control conditions such as lighting and temperature. I want to make these materials, samples and the knowledge about them available to the students for use in e.g. biomaterial making and textile dyeing. 
+
+##### 2. Printing and displaying living materials
+In my own time I've been exploring growing stencilled layers of mycelium on RISO prints. I would like to futher pursue and extend this practice by using various organisms (myceliums, bacteria, yeasts, algae?) as either consecutive layers or in concert, allowing competition as part of the design process, 2. other materials s.a. ceramics to grow them on and 3. developing a way to keep the materials alive and displaying them outside of the lab. 
+
+##### 3. External biolab display
+As the HKU biolab is at present quite hidden, I would like to build a mobile safety cabinet/display that is safe and attractive in which we can showcase work that is in development and alive and wouldn't otherwise be able to leave the lab. Is this even possible, and under what circumstances?
+
+
