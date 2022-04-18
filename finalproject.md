@@ -8,6 +8,9 @@ permalink: /finalproject/
 ##### 1. Algae for the living material archive
 I would like to build an algae bioreactor/cultivator for the HKU biolab with space to grow various species of macroalgae (seaweed) and microalgae (phytoplankton) and control conditions such as lighting and temperature. I want to make these materials, samples and the knowledge about them available to the students for use in e.g. biomaterial making and textile dyeing. 
 
+<img src="/images/makerfaire.webp" alt="makerfaire"/>
+<img src="/images/reefpi-adafruit.jpeg" alt="reefpi"/>
+
 ##### 2. Printing and displaying living materials
 In my own time I've been exploring growing stencilled layers of mycelium on RISO prints. I would like to futher pursue and extend this practice by using various organisms (myceliums, bacteria, yeasts, algae?) as either consecutive layers or in concert, allowing competition as part of the design process, 2. other materials s.a. ceramics to grow them on and 3. developing a way to keep the materials alive and displaying them outside of the lab. 
 
