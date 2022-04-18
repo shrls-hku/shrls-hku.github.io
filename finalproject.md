@@ -14,9 +14,9 @@ I would like to build an algae bioreactor/cultivator for the HKU biolab with spa
 ##### 2. Printing and displaying living materials
 In my own time I've been exploring growing stencilled layers of mycelium on RISO prints. I would like to futher pursue and extend this practice by using various organisms (myceliums, bacteria, yeasts, algae?) as either consecutive layers or in concert, allowing competition as part of the design process, 2. other materials s.a. ceramics to grow them on and 3. developing a way to keep the materials alive and displaying them outside of the lab. 
 
-<img src="/images/tests.jpg" alt="tests" width="300">
-<img src="/images/oyster.jpg" alt="oyster" height="225">
-<img src="/images/reishi.jpg" alt="reishi" height="225">
+<img src="/images/tests.jpeg" alt="tests" width="300">
+<img src="/images/oyster.JPG" alt="oyster" height="225">
+<img src="/images/reishi.JPG" alt="reishi" height="225">
 
 ##### 3. External biolab display
 As the HKU biolab is at present quite hidden, I would like to build a mobile safety cabinet/display that is safe and attractive in which we can showcase work that is in development and alive and wouldn't otherwise be able to leave the lab. Is this even possible, and under what circumstances?
