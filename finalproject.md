@@ -6,7 +6,7 @@ permalink: /finalproject/
 ##### 18/2 FIRST IDEAS
 
 ##### 1. Algae for the living material archive
-I would like to build an algae bioreactor/cultivator for the HKU biolab with space to grow various species of macroalgae (seaweed) and microalgae (phytoplankton) and control conditions such as lighting and temperature. I want to make these materials, samples and the knowledge about them available to the students for use in e.g. biomaterial making and textile dyeing. 
+I would like to build an algae bioreactor/cultivator for the HKU biolab with space to grow various species of macroalgae (seaweed) and microalgae (phytoplankton) and control conditions such as lighting and temperature. I want to make these materials, samples and the knowledge about them available to the students for use in e.g. biomaterial making and textile dyeing, but also to convey the idea that energy can be harvested with biomass and how algae can be a really powerful food source.   
 
 <img src="/images/bioreactor.jpeg" alt="bioreactor" width="300">
 <img src="/images/reefpi-adafruit.jpeg" alt="reefpi" height="225">
