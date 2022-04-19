@@ -13,7 +13,10 @@ I would like to build an algae bioreactor/cultivator for the HKU biolab with spa
 
 
 ##### 2. Printing and displaying living materials
-In my own time I've been exploring growing layers of mycelium on RISO prints, planning to later stencil layers or 3d print nutrients. I would like to futher pursue and extend this practice by using various organisms (myceliums, bacteria, yeasts, algae?) as either consecutive layers or in concert, allowing competition as part of the design process, 2. other materials s.a. ceramics to grow them on and 3. developing a way to keep the materials alive and displaying them outside of the lab. 
+In my own time I've been experimenting with growing layers of mycelium on RISO prints, planning to later stencil layers or 3d print nutrients. I would like to futher pursue and extend this by
+1. exploring the relation between by using various organisms (myceliums, bacteria, yeasts, algae?) visually in the work, e.g. as either consecutive layers or in concert, allowing competition as part of the design process. 
+2. exploring other materials s.a. ceramics as a base
+3. developing a way to keep the work / this kind of work alive and contained and displaying it outside of the lab
 
 <img src="/images/tests.jpeg" alt="tests" width="300">
 <img src="/images/testoyster.jpeg" alt="testoyster" height="225">
