@@ -9,8 +9,10 @@ permalink: /finalproject/
 ##### 25/4 BIOKABINET: FIRST SKETCHES 
 ---
 To gather more vantage points on the safety and the design of what I started thinking of as a biocabinet of curiosities, I reached out to Per Staugaard, Waag's biosafety officer, and Ionat Zuerr of the SymbioticA lab in Perth that has developed a toolkit for building exhibitions for biological art works, and have more than two decades of experience in it. I'm very interested in the question how one negotiates biosafety guidelines when taking living works out of the biolab and into other public spaces.
+
 ##### Cabinet requirements
 The cabinet to build should be able to safely exhibit and sustain non-pathogenic living microorganisms - fungi, bacteria, yeasts etc, and also safeguard works using bodily fluids and other human materials (I have some experience with these student interests :). There should probably be the option to filter incoming and outgoing air, temperature control and adaptable or programmable lighting. It is important that the cabinet is mobile / easily moveable, but sturdy and can’t tip over. The display should be inviting, you can clearly see inside, but you can't open it, or change any of the settings. Aesthetically I waould like to stay away from the biosafety cabinet look and more towards a cabinet of curiosity or a biology museum display. 
+
 ##### Sketching
 I started collecting images and sketching out ideas, which resulted in these first 3D sketches below, meant for communicating the idea and gathering more feedback. 
 
@@ -21,8 +23,8 @@ I started collecting images and sketching out ideas, which resulted in these fir
 <img src="/images/display5.jpeg" alt="display5" height="225">
 <img src="/images/display6.jpeg" alt="display6" height="225">
 
-<img src="/images/sketchup1.jpeg" alt="sketchup1" height="225">
-<img src="/images/sketchup2.jpeg" alt="sketchup2" height="225">
+<img src="/images/sketchup1.png" alt="sketchup1" height="225">
+<img src="/images/sketchup2.png" alt="sketchup2" height="225">
 
 ##### 18/4 FIRST IDEAS
 ---
