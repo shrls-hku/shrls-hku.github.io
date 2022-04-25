@@ -13,9 +13,9 @@ To gather more vantage points on the safety and the design of what I started thi
 ##### Cabinet requirements
 The cabinet to build should be able to safely exhibit and sustain non-pathogenic living microorganisms - fungi, bacteria, yeasts etc, and also safeguard works using bodily fluids and other human materials (I have some experience with these student interests :). There should probably be the option to filter incoming and outgoing air, temperature control and adaptable or programmable lighting. It is important that the cabinet is mobile / easily moveable, but sturdy and can’t tip over. The display should be inviting, you can clearly see inside, but you can't open it, or change any of the settings. Aesthetically I waould like to stay away from the biosafety cabinet look and more towards a cabinet of curiosity or a biology museum display. 
 
-<img src="/images/display1.jpeg" alt="display1" height="225">
-<img src="/images/display2.jpeg" alt="display2" height="225">
-<img src="/images/display3.jpeg" alt="display3" height="225">
+<img src="/images/display1.jpeg" alt="display1" height="200">
+<img src="/images/display2.jpeg" alt="display2" height="200">
+<img src="/images/display3.jpeg" alt="display3" height="200">
 <img src="/images/display4.jpeg" alt="display4" height="225">
 <img src="/images/display5.jpeg" alt="display5" height="225">
 <img src="/images/display6.jpeg" alt="display6" height="225">
