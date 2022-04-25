@@ -19,6 +19,7 @@ I started collecting images and sketching out ideas, which resulted in these fir
 <img src="/images/display1.jpeg" alt="display1" height="225">
 <img src="/images/display2.jpeg" alt="display2" height="225">
 <img src="/images/display3.jpeg" alt="display3" height="225">
+<img src="/images/display4.jpeg" alt="display4" height="225">
 <img src="/images/display5.jpeg" alt="display5" height="225">
 <img src="/images/display6.jpeg" alt="display6" height="225">
 
