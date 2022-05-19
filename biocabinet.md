@@ -4,10 +4,14 @@ title: Biocabinet
 permalink: /biocabinet/
 ---
 
-##### 12/5 Biohack Academy Show 2022
+##### 12/5 BIOHACK ACADEMY SHOWCASE 2022
 ---
 
-<img src="/images/sketchup3_final.jpeg" alt="sketchup3" height="225">
+<img src="/images/bordje.jpeg" alt="bordje" height="400">
+<img src="/showsetup.jpg" alt="show" height="400">
+
+<img src="/insides.jpg" alt="insides" height="200">
+<img src="/preshow.jpg" alt="preshow" height="200">
 
 ##### 30/4 - 12/5 BUILDING THE BIOCABINET
 ---
