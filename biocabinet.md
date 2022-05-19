@@ -9,9 +9,9 @@ permalink: /biocabinet/
 
 <img src="/images/bordje.jpeg" alt="bordje" height="500">
 
-<img src="/showsetup.JPG" alt="show" height="200">
-<img src="/insides.JPG" alt="insides" height="200">
-<img src="/preshow.JPG" alt="preshow" height="200">
+<img src="/showsetup.jpeg" alt="show" height="200">
+<img src="/insides.jpeg" alt="insides" height="200">
+<img src="/preshow.jpeg" alt="preshow" height="200">
 
 ##### 30/4 - 12/5 BUILDING THE BIOCABINET
 ---
