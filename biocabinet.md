@@ -15,7 +15,7 @@ permalink: /biocabinet/
 ---
 Here, I will soon describe the building process in detail, and include my design files, bill of materials, code and ideas for further development. Should you need them sooner, please feel free to contact me at [shirley.niemans@hku.nl](mailto:shirley.niemans@hku.nl).
 
-<img src="/images/insides.jpeg" alt="insides" height="400">
+<img src="/images/insides.jpeg" alt="insides" height="500">
 
 ##### 27/4 SAFETY UPDATE & SECOND SKETCH
 ---
