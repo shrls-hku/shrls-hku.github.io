@@ -8,10 +8,10 @@ permalink: /biocabinet/
 ---
 
 <img src="/images/bordje.jpeg" alt="bordje" height="400">
-<img src="/showsetup.jpg" alt="show" height="400">
+<img src="/showsetup.JPG" alt="show" height="400">
 
-<img src="/insides.jpg" alt="insides" height="200">
-<img src="/preshow.jpg" alt="preshow" height="200">
+<img src="/insides.JPG" alt="insides" height="200">
+<img src="/preshow.JPG" alt="preshow" height="200">
 
 ##### 30/4 - 12/5 BUILDING THE BIOCABINET
 ---
