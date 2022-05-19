@@ -15,7 +15,7 @@ permalink: /biocabinet/
 
 ##### 30/4 - 12/5 BUILDING THE BIOCABINET
 ---
-Here, I will soon describe the building process in detail, and include my design files, bill of materials, code and ideas for further development. Should you need them sooner, please feel free to contact me at shirley.niemans@hku.nl. 
+Here, I will soon describe the building process in detail, and include my design files, bill of materials, code and ideas for further development. Should you need them sooner, please feel free to contact me at [shirley.niemans@hku.nl](mailto:shirley.niemans@hku.nl).
 
 ##### 27/4 SAFETY UPDATE & SECOND SKETCH
 ---
