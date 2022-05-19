@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biocabinet
+title: Final project; Biocabinet (Biokabinet)
 permalink: /biocabinet/
 ---
 
@@ -21,7 +21,7 @@ Here, I will soon describe the building process in detail, and include my design
 ---
 <img src="/images/sketchup3_final.jpeg" alt="sketchup3" height="500">
 
-Per commented that it would be wise to further seperate the incoming and outgoing air filters, and perhaps even move the first into the electronics compartment, above the fan. That way, we create an "open" electronics compartment, and two closed, connected compartments where the warm air enters the display, is then transported to the lower back compartment, where it leaves through the second HEPA filter. This made the design complete and I could get building. 
+Per Staugaard commented that it might be wise to further seperate the incoming and outgoing air filters, perhaps even move the first into the electronics compartment, above the fan. That way, we create an "open" electronics compartment, and two closed, connected compartments where the warm air enters the display, is then transported to the lower back compartment, where it leaves through the second HEPA filter. This made the design complete and I could get building. 
 
 ##### 25/4 BIOCABINET: FIRST SKETCHES 
 ---
