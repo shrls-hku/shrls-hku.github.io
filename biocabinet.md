@@ -7,7 +7,7 @@ permalink: /biocabinet/
 ##### 12/5 BIOHACK ACADEMY SHOWCASE 2022
 ---
 
-<img src="/images/bordje.jpeg" alt="bordje" height="600">
+<img src="/images/bordje.jpeg" alt="bordje" height="500">
 
 <img src="/showsetup.JPG" alt="show" height="200">
 <img src="/insides.JPG" alt="insides" height="200">
