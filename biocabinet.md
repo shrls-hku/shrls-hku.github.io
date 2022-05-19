@@ -10,13 +10,13 @@ permalink: /biocabinet/
 <img src="/images/bordje.jpeg" alt="bordje" height="500">
 
 <img src="/images/showsetup.jpeg" alt="show" height="400">
-<img src="/images/insides.jpeg" alt="insides" height="400">
-
 <img src="/images/preshow.jpeg" alt="preshow" height="400">
 
 ##### 30/4 - 12/5 BUILDING THE BIOCABINET
 ---
 Here, I will soon describe the building process in detail, and include my design files, bill of materials, code and ideas for further development. Should you need them sooner, please feel free to contact me at [shirley.niemans@hku.nl](mailto:shirley.niemans@hku.nl).
+
+<img src="/images/insides.jpeg" alt="insides" height="400">
 
 ##### 27/4 SAFETY UPDATE & SECOND SKETCH
 ---
