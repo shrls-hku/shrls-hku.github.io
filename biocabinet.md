@@ -11,6 +11,10 @@ permalink: /biocabinet/
 
 <img src="/images/bordje.jpeg" alt="bordje" height="510">
 
+*"The BioCabinet is Shirley Niemans (HKU, Utrecht University of the Arts) solution to the black box (white box?) of the Biolab in the Arts University. Since universities are bound to strict health and safety regulations, it is notoriously difficult to exhibit growing biological arts and design projects anywhere else than in the lab itself. The BioCabinet project is about creating a way to exhibit micro-organisms or living materials in a portable, controlled and safe environment, so we can take these projects out of the biolab and into the classroom, or the gallery space.*
+
+*The BioCabinet acts like an incubator but looks like a display cabinet you might find in a biology museum. At the core, there is a slightly adapted BioHack Academy Incubator that controls the temperature and airflow within the cabinet. The acrylic shell is airtight and easily sterlizable, and the incoming and outgoing air are HEPA filtered. Lastly, programmable LED lighting is added to help with the growth of photosynthesizing organisms such as algae or cyanobacteria."* 
+
 ##### 30/4 - 12/5 BUILDING THE BIOCABINET
 ---
 Here, I will soon describe the building process in detail, and include my design files, bill of materials, code and ideas for further development. Should you need them sooner, please feel free to contact me at [shirley.niemans@hku.nl](mailto:shirley.niemans@hku.nl).
