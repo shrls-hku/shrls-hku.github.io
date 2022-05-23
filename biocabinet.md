@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final project:' Biocabinet (Biokabinet)
+title: Final project: Biocabinet
 permalink: /biocabinet/
 ---
 
